@@ -1,8 +1,5 @@
 # raptunian-quadratic-calculator
 
-Este proyecto fue diseÃ±ado como prueba para una calculadora de ecuaciones cuadrÃ¡ticas con la siguiente fÃ³rmula:
+Este proyecto fue diseñado como prueba para una calculadora de ecuaciones cuadráticas con la siguiente fÃ³rmula: <img src="src/media/CodeCogsEqn.svg">
 
-<img src="src/media/CodeCogsEqn.svg">
-
-Ésto sólo se cunple si la siguiente ecuación es cierta:
-<img src="src/media/CodeCogsEqn2.svg">
+Ésto sólo se cunple si la siguiente ecuación es cierta: <img src="src/media/CodeCogsEqn2.svg">
